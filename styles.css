@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+.client-name {
+    font-size: 36px;
+    font-weight: bold;
+}
