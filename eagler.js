@@ -1,0 +1,1 @@
+// EaglercraftX engine script placeholder
